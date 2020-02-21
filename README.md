@@ -1,7 +1,7 @@
 # StockholmDrift
 A little racing game, my first C++ project
 
-~---~~~~====<'Stockholm Drift'>====~~~~---
+~---~~~~====<'Stockholm Drift'>====~~~~--
 Control the car using WASD.
 You gain points for each passing car. 'O'
 The multiplier increases number of points gained.
